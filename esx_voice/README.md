@@ -1,5 +1,5 @@
 # esx_voice
-FXServer ESX Voice Version+
+FXServer ESX Voice 
 
 
 #### Description
@@ -11,10 +11,4 @@ This is a proximity voice controller script. The default control for this is `Le
 2) Delete cache folder in server-data
 
 
-#### Credits
-Original Script by [aabbfive](https://github.com/aabbfive/voicecontroller)
-Modified Script by [NyxonDev](https://github.com/NyxonDev)
 
-
-###You can not sell and distribute this script without my knowledge!
-###It's forbidden!
